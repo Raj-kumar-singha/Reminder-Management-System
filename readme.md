@@ -40,7 +40,7 @@ npm start
 ```.env
 
 PORT = 5050
-Mongo_Uri = "mongodb+srv://Node_Assessment:Assessment@cluster0.66svo.mongodb.net/nodeAssesment?retryWrites=true&w=majority"
+Mongo_Uri =
 JWT_SECRET = new_secret
 
 ```
